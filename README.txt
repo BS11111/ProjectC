@@ -1,0 +1,1 @@
+This program creates a random two-dimensional array (b arrey) of numbers and, based on it, creates another one (a arrey), the numbers in which are calculated using the formula from 1.jpg. It also outputs both arrays and additionally prints the maximum and minimum element of a random array
